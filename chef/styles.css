@@ -1,0 +1,89 @@
+*{
+   background-color: whitesmoke;
+}
+
+.red{
+    border: 3px solid red;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    border-radius: 5px 5px 5px 5px; 
+}
+.yellow{
+    border: 3px solid red;
+    position: absolute;
+    top: 150px;
+    left: 430px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Style Script', cursive;
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(102, 255, 0);
+}
+.black{
+    position: absolute;
+    top: 150px;
+    left: 720px;
+    border: 3px solid red;
+}
+
+
+.one{
+    position: absolute;
+    top: -2px;
+    left: 280px;
+    border: 3px solid red;
+}
+p{
+    position: absolute;
+    top: 400px;
+    left: 170px;
+    color: #000;
+    font-size: 30px;
+}
+h2{
+    position: absolute;
+    top: 400px;
+    left: 470px;
+    color: #000;
+    font-size: 30px;
+}
+h3{
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    color: #000;
+    font-size: 30px;
+}
+h4{
+    position: absolute;
+    top: 390px;
+    left: 1050px;
+    color: #000;
+    font-size: 30px;
+}
+h5{
+    position: absolute;
+    top: -80px;
+    left: 30px;
+    color: rgb(53, 221, 19);
+    font-size: 50px;
+ }
+ h6{
+     position: absolute;
+     top: -60px;
+     left: 55px;
+     color: rgb(255, 115, 0);
+     font-size: 50px;
+     
+ }
+ .icon{
+     font-size: 50px;
+     color: aqua;
+     position: absolute;
+     top: 10px; 
+     left: 1300px;
+ }
